@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mis Series</string>
+    <string name="title_signup">Registrar</string>
+    <string name="input_name_signup">nombre</string>
+    <string name="input_email_signup">correo</string>
+    <string name="required_field">*campo requerido</string>
+    <string name="input_password_signup">contraseña</string>
+    <string name="input_repeat_password_signup">repetir contraseña</string>
+    <string name="boton_register_signup">registrar</string>
+    <string name="male">masculino</string>
+    <string name="female">femenino</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="fecha_de_nacimiento">fecha de nacimiento</string>
+    <string name="favorites">suspenso</string>
+    <string name="terror">terror</string>
+    <string name="accion">acción</string>
+    <string name="romance">romance</string>
+    <string name="Psicodelic">psicodelico</string>
+    <string name="drama">drama</string>
+    <string name="ciudad_de_nacimiento">ciudad de nacimiento</string>
+    <string name="generos">Seleccione su genero</string>
+    <string name="series">seleccione sus generos favoritos</string>
+    <string name="empt">el campo esta vacio</string>
+    <string name="err">las contraseñas son diferentes</string>
+    <string-array name="ciudades">
+        <item>Medellín</item>
+        <item>Bogota</item>
+        <item>Barranquilla</item>
+        <item>Cali</item>
+        <item>Bucarmanaga</item>
+    </string-array>
+</resources>
